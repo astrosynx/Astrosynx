@@ -34,6 +34,46 @@ We operate secure, monitored, and optimized nodes across multiple decentralized 
 
 ---
 
+## 🏛️ Foundation Delegations
+
+<div align="center">
+Astrosynx validates with stake delegated by the <b>Celestia Foundation</b> and the <b>Monad Foundation</b>.<br/>
+Both validators are on mainnet, and you can verify them on-chain through the badges below.
+</div>
+<br/>
+
+<p align="center">
+  <a href="https://www.mintscan.io/celestia/validators/celestiavaloper1mhqqnzfjfpch7ljk33ds97mjjzps79d9z8lf29"><img src="https://img.shields.io/badge/Celestia-Foundation%20Delegation-8A2BE2?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://monadvision.com/validator/0xCcDAB988873Ef830fa0C341812c2a860C5823A70"><img src="https://img.shields.io/badge/Monad-Foundation%20Delegation%20·%20Wave%202-FF00FF?style=for-the-badge&logoColor=white"/></a>
+</p>
+
+<details>
+<summary><b>Validator addresses</b></summary>
+<br/>
+
+| Network | Address |
+|---|---|
+| Celestia | `celestiavaloper1mhqqnzfjfpch7ljk33ds97mjjzps79d9z8lf29` |
+| Monad | `0xCcDAB988873Ef830fa0C341812c2a860C5823A70` |
+
+</details>
+
+---
+
+## 🔭 Public Tools
+
+<p align="center">
+  <a href="https://astrosynx.org/decentralization-celestia"><img src="https://img.shields.io/badge/Celestia-DA%20Resilience%20Observatory-00BFFF?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://astrosynx.org/readiness/"><img src="https://img.shields.io/badge/Monad-Validator%20Readiness%20Kit-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/></a>
+</p>
+
+<div align="center">
+The <b>DA Resilience Observatory</b> tracks how decentralized Celestia's data-availability layer is, covering Nakamoto coefficient, stake, ASN and geography.<br/>
+The <b>Readiness Kit</b> is a read-only preflight check that Monad validators run before an upgrade.
+</div>
+
+---
+
 ## ⚙️ Infrastructure & Monitoring
 
 <p align="center">
@@ -72,3 +112,4 @@ Astrosynx stands for precision validation and resilient infrastructure — where
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF00FF,100:00BFFF&height=120&section=footer&fontColor=001F6D&text=ASTROSYNX%20VALIDATOR%20—%20SECURING%20THE%20FUTURE%20🌌&fontSize=26" alt="footer"/>
 </p>
+
