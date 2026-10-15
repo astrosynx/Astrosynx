@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230" role="img" aria-label="Monad mainnet: Monad Foundation Delegation Program, Wave 2">
+  <style>
+    .mono{font-family:ui-monospace,'IBM Plex Mono',SFMono-Regular,Consolas,monospace}
+    .sans{font-family:Inter,'Helvetica Neue','Segoe UI',Arial,sans-serif}
+    .blink{animation:b 1.6s steps(1) infinite}
+    @keyframes b{50%{opacity:.3}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect width="600" height="230" fill="#181a1d"/>
+  <rect x=".5" y=".5" width="599" height="229" fill="none" stroke="#303235"/>
+
+  <rect x="28" y="32" width="7" height="7" fill="#00d892"/>
+  <text class="mono" x="44" y="39" font-size="11" letter-spacing="1.8" fill="#bababb">FOUNDATION DELEGATION · WAVE 2</text>
+  <g>
+    <rect x="466.5" y="24.5" width="106" height="22" fill="#0b0e12" stroke="#303235"/>
+    <rect class="blink" x="478" y="32" width="6" height="6" fill="#00d892"/>
+    <text class="mono" x="492" y="39.5" font-size="10.5" letter-spacing="1.4" fill="#00d892">MAINNET</text>
+  </g>
+
+  <rect x="32" y="84" width="24" height="24" rx="7" transform="rotate(45 44 96)" fill="#836ef9"/>
+  <rect x="39" y="91" width="10" height="10" rx="3" transform="rotate(45 44 96)" fill="#181a1d"/>
+  <text class="sans" x="74" y="106" font-size="30" fill="#dedede" letter-spacing="-.5">Monad</text>
+
+  <text class="sans" x="28" y="150" font-size="15" fill="#818284">Selected for the Monad Foundation Delegation Program.</text>
+
+  <line x1="0" y1="176.5" x2="600" y2="176.5" stroke="#303235"/>
+  <text class="mono" x="28" y="208" font-size="11.5" fill="#818284">0xCcDAB988…C5823A70</text>
+  <text class="mono" x="572" y="208" text-anchor="end" font-size="11" letter-spacing="1.4" fill="#dedede">MONADVISION ↗</text>
+</svg>

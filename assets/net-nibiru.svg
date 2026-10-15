@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" width="300" height="120" role="img" aria-label="Nibiru mainnet: validator profile">
+  <style>
+    .mono{font-family:ui-monospace,'IBM Plex Mono',SFMono-Regular,Consolas,monospace}
+    .sans{font-family:Inter,'Helvetica Neue','Segoe UI',Arial,sans-serif}
+  </style>
+  <rect width="300" height="120" fill="#0b0e12"/>
+  <rect x=".5" y=".5" width="299" height="119" fill="none" stroke="#303235"/>
+  <rect x="22" y="24" width="6" height="6" fill="#00d892"/>
+  <text class="mono" x="36" y="30.5" font-size="11" letter-spacing="1.6" fill="#818284">MAINNET</text>
+  <text class="sans" x="20" y="70" font-size="25" fill="#dedede" letter-spacing="-.4">Nibiru</text>
+  <text class="sans" x="21" y="98" font-size="14" fill="#818284">Validator profile</text>
+  <text class="mono" x="276" y="98" text-anchor="end" font-size="15" fill="#bababb">&#8599;</text>
+</svg>

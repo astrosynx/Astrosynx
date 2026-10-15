@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="2017 Bitcoin mining · 2018 Ethereum and GPU mining · 2022 Ethereum validation · Today mining, AI and staking">
+  <style>
+    .mono{font-family:ui-monospace,'IBM Plex Mono',SFMono-Regular,Consolas,monospace}
+    .sans{font-family:Inter,'Helvetica Neue','Segoe UI',Arial,sans-serif}
+    .pulse{animation:p 6s linear infinite}
+    @keyframes p{from{transform:translateX(0)}to{transform:translateX(1080px)}}
+    .blink{animation:b 1.6s steps(1) infinite}
+    @keyframes b{50%{opacity:.3}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect width="1200" height="200" fill="#0b0e12"/>
+  <rect x=".5" y=".5" width="1199" height="199" fill="none" stroke="#303235"/>
+
+  <line x1="60" y1="70" x2="1140" y2="70" stroke="#303235" stroke-width="1.5"/>
+  <g class="pulse"><rect x="56" y="68" width="40" height="3" fill="#00d892" opacity=".7"/></g>
+
+  <g fill="#0b0e12" stroke="#818284" stroke-width="1.5">
+    <rect x="54" y="64" width="12" height="12"/>
+    <rect x="384" y="64" width="12" height="12"/>
+    <rect x="714" y="64" width="12" height="12"/>
+  </g>
+  <rect class="blink" x="1034" y="64" width="12" height="12" fill="#00d892"/>
+
+  <g class="mono" font-size="13" letter-spacing="2">
+    <text x="60" y="44" fill="#bababb">2017</text>
+    <text x="390" y="44" fill="#bababb">2018</text>
+    <text x="720" y="44" fill="#bababb">2022</text>
+    <text x="1040" y="44" fill="#00d892">TODAY</text>
+  </g>
+  <g class="sans">
+    <text x="60" y="114" font-size="20" fill="#dedede">Bitcoin mining</text>
+    <text x="60" y="140" font-size="13.5" fill="#818284">Machines, power, cooling and</text>
+    <text x="60" y="160" font-size="13.5" fill="#818284">day-to-day operations.</text>
+
+    <text x="390" y="114" font-size="20" fill="#dedede">Ethereum &amp; GPU mining</text>
+    <text x="390" y="140" font-size="13.5" fill="#818284">GPU infrastructure and large-scale</text>
+    <text x="390" y="160" font-size="13.5" fill="#818284">equipment management.</text>
+
+    <text x="720" y="114" font-size="20" fill="#dedede">Ethereum validation</text>
+    <text x="720" y="140" font-size="13.5" fill="#818284">Mining gave way to validation</text>
+    <text x="720" y="160" font-size="13.5" fill="#818284">at the Merge.</text>
+
+    <text x="1040" y="114" font-size="20" fill="#dedede">Mining, AI</text>
+    <text x="1040" y="138" font-size="20" fill="#dedede">&amp; staking</text>
+    <text x="1040" y="164" font-size="13.5" fill="#818284">One operator.</text>
+  </g>
+</svg>

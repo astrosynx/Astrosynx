@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="What are you building next? Talk to Astrosynx">
+  <style>
+    .mono{font-family:ui-monospace,'IBM Plex Mono',SFMono-Regular,Consolas,monospace}
+    .sans{font-family:Inter,'Helvetica Neue','Segoe UI',Arial,sans-serif}
+    .go{animation:go 1.8s ease-in-out infinite}
+    @keyframes go{50%{transform:translate(3px,-3px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect width="1200" height="240" fill="#0b0e12"/>
+  <rect x=".5" y=".5" width="1199" height="239" fill="none" stroke="#303235"/>
+
+  <rect x="40" y="46" width="7" height="7" fill="#00d892"/>
+  <text class="mono" x="56" y="53" font-size="11.5" letter-spacing="1.8" fill="#bababb">LET’S PUT INFRASTRUCTURE TO WORK</text>
+  <text class="sans" x="38" y="116" font-size="46" fill="#dedede" letter-spacing="-1">What are you building next?</text>
+  <text class="sans" x="40" y="162" font-size="16.5" fill="#818284">A Bitcoin fleet. An AI workload. A new home for your equipment.</text>
+
+  <g>
+    <rect x="890" y="138" width="270" height="54" fill="#002923"/>
+    <text class="mono" x="914" y="171" font-size="13" letter-spacing="1.8" fill="#00d892">TALK TO ASTROSYNX</text>
+    <g class="go"><text class="mono" x="1130" y="171" font-size="15" fill="#00d892">↗</text></g>
+  </g>
+</svg>
