@@ -62,7 +62,7 @@ These are public tools we built for the networks we run on.
   <tr><td><a href="https://astrosynx.org/decentralization-monad"><b>Monad Network Health</b></a></td><td>Monad validator map and network health.</td></tr>
   <tr><td><a href="https://astrosynx.org/readiness/"><b>Monad Readiness Kit</b></a></td><td>A read-only preflight check to run on your own node before an upgrade. Single Python file, <code>--json</code> output for CI.</td></tr>
   <tr><td><a href="https://astrosynx.org/tech"><b>Operator hub</b></a></td><td>Endpoints, snapshots and copy-paste recipes for Celestia, Ethereum, Monad, Polkadot and Story.</td></tr>
-  <tr><td><a href="https://github.com/astrosynx/Celestia-Tools"><b>Celestia-Tools</b></a></td><td>Celestia RPC, gRPC and API endpoints, snapshots and state sync.</td></tr>
+  <tr><td><a href="https://github.com/astrosynx/Celestia-Tools"><b>Celestia-Tools</b></a></td><td>Celestia endpoints, snapshots and state sync, plus a guide to <a href="https://github.com/astrosynx/Celestia-Tools/tree/main/fibre">running Fibre on a separate host</a> with a private VLAN and mTLS.</td></tr>
 </table>
 
 <br>
@@ -70,5 +70,6 @@ These are public tools we built for the networks we run on.
 <a href="mailto:astrosynxmining@gmail.com">
   <img src="./assets/footer.svg" width="100%" alt="What are you building next? Talk to Astrosynx">
 </a>
+
 
 
